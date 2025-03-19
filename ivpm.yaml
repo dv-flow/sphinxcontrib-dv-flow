@@ -1,0 +1,11 @@
+
+package:
+  name: sphinxcontrib-dv-flow
+
+  dep-sets:
+  - name: default-dev
+    deps:
+    - name: sphinx-jsonschema
+      url: https://github.com/lnoor/sphinx-jsonschema.git
+
+      
